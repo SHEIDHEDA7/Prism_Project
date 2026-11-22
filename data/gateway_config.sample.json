@@ -1,0 +1,9 @@
+{
+  "aliases": {"fast":"mock-fast", "smart":"mock-smart", "auto":"difficulty-router"},
+  "fallbacks": {"fast":["mock-smart"], "smart":["mock-fast"]},
+  "provider_timeout_ms": 3000,
+  "retry_attempts": 2,
+  "cache_similarity_threshold": 0.72,
+  "cache_scope": "virtual-key",
+  "mock_provider_mode": true
+}
