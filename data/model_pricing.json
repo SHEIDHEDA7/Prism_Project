@@ -1,0 +1,9 @@
+{
+  "currency": "USD",
+  "unit": "per 1,000,000 tokens",
+  "models": {
+    "mock-fast": {"input": 0.15, "output": 0.60, "provider": "mock"},
+    "mock-smart": {"input": 2.00, "output": 8.00, "provider": "mock"}
+  },
+  "note": "Demo estimates per 1M prompt and completion tokens. Replace with supplied pricing data if available."
+}

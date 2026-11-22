@@ -1,0 +1,7 @@
+{
+  "keys": [
+    {"name":"demo-team","key":"prism-demo-team","models":["fast","smart","auto","mock-fast","mock-smart"],"rpm":60,"monthly_budget_usd":5.00},
+    {"name":"demo-student","key":"prism-demo-student","models":["fast","auto","mock-fast"],"rpm":20,"monthly_budget_usd":0.25}
+  ],
+  "note": "The case-study PDF did not include the separately referenced source seed files, so these are local demo seeds."
+}
